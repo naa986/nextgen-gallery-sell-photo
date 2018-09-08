@@ -2,9 +2,9 @@
 /*
 Plugin Name: NextGEN Gallery Sell Photo
 Version: 1.0.4
-Plugin URI: http://noorsplugin.com/2014/08/17/nextgen-gallery-sell-photo-plugin/
+Plugin URI: https://noorsplugin.com/nextgen-gallery-sell-photo-plugin/
 Author: naa986
-Author URI: http://noorsplugin.com/
+Author URI: https://noorsplugin.com/
 Description: NextGEN Gallery addon for selling photos from your website
 Text Domain: nextgen-gallery-sell-photo
 Domain Path: /languages
